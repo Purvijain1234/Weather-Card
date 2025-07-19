@@ -17,6 +17,7 @@ This is a basic **Weather App** built with **HTML**, **CSS**, and **JavaScript**
 ## 📂 **Project Structure**
 
 📂 Weather-App
+
 ┣ 📜 weather.html
 
 ┣ 📜 weather.css
