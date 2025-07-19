@@ -46,7 +46,7 @@ Dynamic CSS changes
 
 Basic API integration (if used — e.g., OpenWeatherMap)
 
-👩‍💻 Author
+##👩‍💻 Author
 Purvi Jain
 
 📌 Connect with me on LinkedIn
