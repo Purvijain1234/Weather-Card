@@ -18,13 +18,12 @@ This is a basic **Weather App** built with **HTML**, **CSS**, and **JavaScript**
 
 📂 Weather-App
 ┣ 📜 weather.html
+
 ┣ 📜 weather.css
+
 ┣ 📜 weather.js
-┣ 📂 images
-┃ ┣ 📜 morning.png
-┃ ┣ 📜 afternoon.png
-┃ ┣ 📜 evening.png
-┃ ┗ 📜 night.png
+
+┗  📂 images
 
 ---
 
